@@ -7,14 +7,14 @@
       "Application": "Pcbnew",
       "Version":     "5.1.12-84ad8e8a86~92~ubuntu20.04.1"
     },
-    "CreationDate":  "2021-11-26T14:05:01+01:00"
+    "CreationDate":  "2021-11-26T19:12:35+01:00"
   },
   "GeneralSpecs":
   {
     "ProjectId":
     {
-      "Name": "led-ring-transom",
-      "GUID": "6c65642d-7269-46e6-972d-7472616e736f",
+      "Name": "led-ring-with-crossbar",
+      "GUID": "6c65642d-7269-46e6-972d-776974682d63",
       "Revision": "rev?"
     },
     "Size":
@@ -40,47 +40,47 @@
   "FilesAttributes":
   [
     {
-      "Path":  "led-ring-transom-F_Cu.gbr",
+      "Path":  "led-ring-with-crossbar-F_Cu.gbr",
       "FileFunction":  "Copper,L1,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led-ring-transom-B_Cu.gbr",
+      "Path":  "led-ring-with-crossbar-B_Cu.gbr",
       "FileFunction":  "Copper,L2,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led-ring-transom-F_Paste.gbr",
+      "Path":  "led-ring-with-crossbar-F_Paste.gbr",
       "FileFunction":  "SolderPaste,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led-ring-transom-B_Paste.gbr",
+      "Path":  "led-ring-with-crossbar-B_Paste.gbr",
       "FileFunction":  "SolderPaste,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led-ring-transom-F_SilkS.gbr",
+      "Path":  "led-ring-with-crossbar-F_SilkS.gbr",
       "FileFunction":  "Legend,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led-ring-transom-B_SilkS.gbr",
+      "Path":  "led-ring-with-crossbar-B_SilkS.gbr",
       "FileFunction":  "Legend,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led-ring-transom-F_Mask.gbr",
+      "Path":  "led-ring-with-crossbar-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "led-ring-transom-B_Mask.gbr",
+      "Path":  "led-ring-with-crossbar-B_Mask.gbr",
       "FileFunction":  "SolderMask,Bot",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "led-ring-transom-Edge_Cuts.gbr",
+      "Path":  "led-ring-with-crossbar-Edge_Cuts.gbr",
       "FileFunction":  "Profile",
       "FilePolarity":  "Positive"
     }

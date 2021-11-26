@@ -902,7 +902,7 @@ $EndComp
 Text Notes 1350 4500 0    50   ~ 0
 decoupling
 Text Notes 700  3150 0    50   ~ 0
-transom (10x LEDs)
+crossbar (10x LEDs)
 $Comp
 L Connector:Conn_01x04_Male J_OUT1
 U 1 1 62554684

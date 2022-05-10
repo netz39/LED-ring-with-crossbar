@@ -2,7 +2,7 @@
 
 This ring contains 32 addressable LEDs and 10 also addressable LEDs as crossbar.
 
-This is part of **Stepper-Schließanlage**. (repo is ToDo)
+This is part of [Stepper-Locking-System](https://github.com/netz39/Stepper-Locking-System).
 
 The CAD models are here: [OnShape](https://cad.onshape.com/documents/e2d30949799f050b252632fe/w/72c412dc9c1a5764811a9783/e/a3e88e734353b2ea9fe2e731)
 --
